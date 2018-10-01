@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>书籍列表</title>
+</head>
+<body>
+<div><a href="#">新增</a></div>
+<ul>
+    {% for book in books %}
+        <li>{{ book.book_name }}--<a href="#">删除</a></li>
+    {% endfor %}
+</ul>
+</body>
+</html>

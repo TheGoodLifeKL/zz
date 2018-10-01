@@ -1,0 +1,748 @@
+{
+  "subject_collection": {
+    "cover_url": "",
+    "id": "movie_showing",
+    "url": "https://m.douban.com/app_topic/movie_showing",
+    "uri": "douban://douban.com/subject_collection/movie_showing",
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_showing/",
+    "subject_count": 31,
+    "display": {
+      "layout": "grid"
+    },
+    "name": "影院热映",
+    "description": ""
+  },
+  "total": 31,
+  "start": 0,
+  "count": 18,
+  "subject_collection_items": [
+    {
+      "type": "movie",
+      "id": "26752088",
+      "rating": {
+        "max": 10,
+        "value": 9.0,
+        "count": 416589
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1080,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2519070834.jpg",
+        "height": 1512
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 剧情 喜剧 / 文牧野 / 徐峥 王传君",
+      "release_date": "07.05",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 剧情 喜剧 / 文牧野 / 徐峥 王传君",
+      "url": "https://m.douban.com/movie/subject/26752088/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "我不是药神",
+      "label": null,
+      "directors": [
+        "文牧野"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26752088",
+      "price": null,
+      "actors": [
+        "徐峥",
+        "王传君",
+        "周一围"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26925317",
+      "rating": {
+        "max": 10,
+        "value": 7.3,
+        "count": 112168
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 2999,
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2525528688.jpg",
+        "height": 4181
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 剧情 动作 冒险 / 韩延 / 李易峰 迈克尔·道格拉斯",
+      "release_date": "06.29",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 剧情 动作 冒险 / 韩延 / 李易峰 迈克尔·道格拉斯",
+      "url": "https://m.douban.com/movie/subject/26925317/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "动物世界",
+      "label": null,
+      "directors": [
+        "韩延"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26925317",
+      "price": null,
+      "actors": [
+        "李易峰",
+        "迈克尔·道格拉斯",
+        "周冬雨"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "30198729",
+      "rating": {
+        "max": 10,
+        "value": 5.0,
+        "count": 907
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 7088,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2522820714.jpg",
+        "height": 11810
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 儿童 动画 冒险 / 何澄 / 刘纯燕 董浩",
+      "release_date": "07.06",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 儿童 动画 冒险 / 何澄 / 刘纯燕 董浩",
+      "url": "https://m.douban.com/movie/subject/30198729/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "新大头儿子和小头爸爸3：俄罗斯奇遇记",
+      "label": null,
+      "directors": [
+        "何澄"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/30198729",
+      "price": null,
+      "actors": [
+        "刘纯燕",
+        "董浩",
+        "鞠萍"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "25849049",
+      "rating": {
+        "max": 10,
+        "value": 8.1,
+        "count": 70668
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1900,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2522880251.jpg",
+        "height": 2663
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "美国 / 喜剧 动作 动画 / 布拉德·伯德 / 格雷格·T·尼尔森 霍利·亨特",
+      "release_date": "06.22",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 美国 / 喜剧 动作 动画 / 布拉德·伯德 / 格雷格·T·尼尔森 霍利·亨特",
+      "url": "https://m.douban.com/movie/subject/25849049/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "超人总动员2",
+      "label": null,
+      "directors": [
+        "布拉德·伯德"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/25849049",
+      "price": null,
+      "actors": [
+        "格雷格·T·尼尔森",
+        "霍利·亨特",
+        "莎拉·沃威尔"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26416062",
+      "rating": {
+        "max": 10,
+        "value": 6.9,
+        "count": 146132
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 504,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2522069454.jpg",
+        "height": 800
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "美国 西班牙 / 动作 科幻 冒险 / 胡安·安东尼奥·巴亚纳 / 克里斯·帕拉特 布莱丝·达拉斯·霍华德",
+      "release_date": "06.15",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 美国 西班牙 / 动作 科幻 冒险 / 胡安·安东尼奥·巴亚纳 / 克里斯·帕拉特 布莱丝·达拉斯·霍华德",
+      "url": "https://m.douban.com/movie/subject/26416062/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "侏罗纪世界2",
+      "label": null,
+      "directors": [
+        "胡安·安东尼奥·巴亚纳"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26416062",
+      "price": null,
+      "actors": [
+        "克里斯·帕拉特",
+        "布莱丝·达拉斯·霍华德",
+        "贾斯蒂斯·史密斯"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26905469",
+      "rating": {
+        "max": 10,
+        "value": 3.2,
+        "count": 17499
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1268,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2524134770.jpg",
+        "height": 1799
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "美国 中国大陆 / 动作 惊悚 / 史蒂芬·C·米勒 / 西尔维斯特·史泰龙 黄晓明",
+      "release_date": "06.29",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 美国 中国大陆 / 动作 惊悚 / 史蒂芬·C·米勒 / 西尔维斯特·史泰龙 黄晓明",
+      "url": "https://m.douban.com/movie/subject/26905469/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "金蝉脱壳2：冥府",
+      "label": null,
+      "directors": [
+        "史蒂芬·C·米勒"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26905469",
+      "price": null,
+      "actors": [
+        "西尔维斯特·史泰龙",
+        "黄晓明",
+        "戴夫·巴蒂斯塔"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "30255216",
+      "rating": {
+        "max": 10,
+        "value": 5.4,
+        "count": 815
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 477,
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2526892057.jpg",
+        "height": 707
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 纪录片 / 麦丽丝 / 崔永元 王心刚",
+      "release_date": "07.06",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 纪录片 / 麦丽丝 / 崔永元 王心刚",
+      "url": "https://m.douban.com/movie/subject/30255216/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "您一定不要错过",
+      "label": null,
+      "directors": [
+        "麦丽丝"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/30255216",
+      "price": null,
+      "actors": [
+        "崔永元",
+        "王心刚",
+        "王晓棠"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "1305690",
+      "rating": {
+        "max": 10,
+        "value": 8.5,
+        "count": 221594
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 2143,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2525770523.jpg",
+        "height": 2993
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "香港 / 犯罪 剧情 爱情 / 王家卫 / 张国荣 张曼玉",
+      "release_date": "06.25",
+      "reviewer_name": "",
+      "card_subtitle": "1990 / 香港 / 犯罪 剧情 爱情 / 王家卫 / 张国荣 张曼玉",
+      "url": "https://m.douban.com/movie/subject/1305690/",
+      "year": "1990",
+      "forum_info": null,
+      "title": "阿飞正传",
+      "label": null,
+      "directors": [
+        "王家卫"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/1305690",
+      "price": null,
+      "actors": [
+        "张国荣",
+        "张曼玉",
+        "刘嘉玲"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26818314",
+      "rating": {
+        "max": 10,
+        "value": 3.7,
+        "count": 10027
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1429,
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2523437699.jpg",
+        "height": 2000
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 喜剧 动作 / 小沈阳 / 小沈阳 潘斌龙",
+      "release_date": "06.15",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 喜剧 动作 / 小沈阳 / 小沈阳 潘斌龙",
+      "url": "https://m.douban.com/movie/subject/26818314/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "猛虫过江",
+      "label": null,
+      "directors": [
+        "小沈阳"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26818314",
+      "price": null,
+      "actors": [
+        "小沈阳",
+        "潘斌龙",
+        "宋芸桦"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26815162",
+      "rating": {
+        "max": 10,
+        "value": 8.0,
+        "count": 40561
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 5852,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2525716036.jpg",
+        "height": 8620
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "日本 / 喜剧 家庭 / 矢口史靖 / 小日向文世 深津绘里",
+      "release_date": "06.22",
+      "reviewer_name": "",
+      "card_subtitle": "2017 / 日本 / 喜剧 家庭 / 矢口史靖 / 小日向文世 深津绘里",
+      "url": "https://m.douban.com/movie/subject/26815162/",
+      "year": "2017",
+      "forum_info": null,
+      "title": "生存家族",
+      "label": null,
+      "directors": [
+        "矢口史靖"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26815162",
+      "price": null,
+      "actors": [
+        "小日向文世",
+        "深津绘里",
+        "泉泽祐希"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "30235134",
+      "rating": null,
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 4429,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2523632181.jpg",
+        "height": 6201
+      },
+      "null_rating_reason": "暂无评分",
+      "actions": [],
+      "info": "中国大陆 / 惊悚 恐怖 / 张跃斌 / 韩素媛 蓝波",
+      "release_date": "07.06",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 惊悚 恐怖 / 张跃斌 / 韩素媛 蓝波",
+      "url": "https://m.douban.com/movie/subject/30235134/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "细思极恐",
+      "label": null,
+      "directors": [
+        "张跃斌"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/30235134",
+      "price": null,
+      "actors": [
+        "韩素媛",
+        "蓝波",
+        "庞贝童"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26813286",
+      "rating": {
+        "max": 10,
+        "value": 3.8,
+        "count": 3752
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1448,
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2521514148.jpg",
+        "height": 2048
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 喜剧 / 冯巩 / 冯巩 毛俊杰",
+      "release_date": "06.08",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 喜剧 / 冯巩 崔俊杰 / 冯巩 毛俊杰",
+      "url": "https://m.douban.com/movie/subject/26813286/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "幸福马上来",
+      "label": null,
+      "directors": [
+        "冯巩"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26813286",
+      "price": null,
+      "actors": [
+        "冯巩",
+        "毛俊杰",
+        "刘昊然"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26992383",
+      "rating": {
+        "max": 10,
+        "value": 5.1,
+        "count": 4861
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1500,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2523437806.jpg",
+        "height": 2142
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "中国大陆 / 喜剧 动作 犯罪 / 李昕芸 / 王千源 袁姗姗",
+      "release_date": "06.22",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 喜剧 动作 犯罪 / 李昕芸 / 王千源 袁姗姗",
+      "url": "https://m.douban.com/movie/subject/26992383/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "龙虾刑警",
+      "label": null,
+      "directors": [
+        "李昕芸"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26992383",
+      "price": null,
+      "actors": [
+        "王千源",
+        "袁姗姗",
+        "刘桦"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "26614101",
+      "rating": null,
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 828,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2525239221.jpg",
+        "height": 1158
+      },
+      "null_rating_reason": "暂无评分",
+      "actions": [],
+      "info": "中国大陆 / 剧情 传记 / 杨真 / 由立平 窦凤琴",
+      "release_date": "07.08",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 剧情 传记 / 杨真 / 由立平 窦凤琴",
+      "url": "https://m.douban.com/movie/subject/26614101/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "红盾先锋",
+      "label": null,
+      "directors": [
+        "杨真"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/26614101",
+      "price": null,
+      "actors": [
+        "由立平",
+        "窦凤琴",
+        "王建飞"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "27202825",
+      "rating": {
+        "max": 10,
+        "value": 7.1,
+        "count": 1348
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1406,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2526211692.jpg",
+        "height": 2000
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "俄罗斯 / 剧情 运动 / 丹尼拉·科兹洛夫斯基 / 丹尼拉·科兹洛夫斯基 奥莉亚·祖耶娃",
+      "release_date": "06.29",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 俄罗斯 / 剧情 运动 / 丹尼拉·科兹洛夫斯基 / 丹尼拉·科兹洛夫斯基 奥莉亚·祖耶娃",
+      "url": "https://m.douban.com/movie/subject/27202825/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "最后一球",
+      "label": null,
+      "directors": [
+        "丹尼拉·科兹洛夫斯基"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/27202825",
+      "price": null,
+      "actors": [
+        "丹尼拉·科兹洛夫斯基",
+        "奥莉亚·祖耶娃",
+        "Vitaliy Andreev"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "27133303",
+      "rating": {
+        "max": 10,
+        "value": 7.0,
+        "count": 160869
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 2000,
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2520331478.jpg",
+        "height": 2800
+      },
+      "null_rating_reason": "",
+      "actions": [
+        "可播放"
+      ],
+      "info": "中国大陆 / 喜剧 爱情 奇幻 / 苏伦 / 雷佳音 佟丽娅",
+      "release_date": "05.18",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 中国大陆 / 喜剧 爱情 奇幻 / 苏伦 / 雷佳音 佟丽娅",
+      "url": "https://m.douban.com/movie/subject/27133303/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "超时空同居",
+      "label": null,
+      "directors": [
+        "苏伦"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/27133303",
+      "price": null,
+      "actors": [
+        "雷佳音",
+        "佟丽娅",
+        "张衣"
+      ],
+      "has_linewatch": true
+    },
+    {
+      "type": "movie",
+      "id": "27667334",
+      "rating": {
+        "max": 10,
+        "value": 6.8,
+        "count": 1028
+      },
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 1000,
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2524042454.jpg",
+        "height": 1500
+      },
+      "null_rating_reason": "",
+      "actions": [],
+      "info": "泰国 / 动作 动画 奇幻 / 彭萨·康斯里 / 卡诺查·曼雅德昂 萨维提·苏提查农",
+      "release_date": "06.29",
+      "reviewer_name": "",
+      "card_subtitle": "2018 / 泰国 / 动作 动画 奇幻 / 彭萨·康斯里 甘·方苏旺 / 卡诺查·曼雅德昂 萨维提·苏提查农",
+      "url": "https://m.douban.com/movie/subject/27667334/",
+      "year": "2018",
+      "forum_info": null,
+      "title": "暹罗决：九神战甲",
+      "label": null,
+      "directors": [
+        "彭萨·康斯里"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/27667334",
+      "price": null,
+      "actors": [
+        "卡诺查·曼雅德昂",
+        "萨维提·苏提查农",
+        "Sirichai Charoenkijtanakul"
+      ],
+      "has_linewatch": false
+    },
+    {
+      "type": "movie",
+      "id": "25971649",
+      "rating": null,
+      "subtype": "",
+      "cover": {
+        "shape": "rectangle",
+        "width": 700,
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2522252598.jpg",
+        "height": 980
+      },
+      "null_rating_reason": "暂无评分",
+      "actions": [],
+      "info": "德国 / 喜剧 动画 冒险 / Boris Aljinovic / Otto Waalkes Mirco Nontschew",
+      "release_date": "06.16",
+      "reviewer_name": "",
+      "card_subtitle": "2014 / 德国 / 喜剧 动画 冒险 / Boris Aljinovic 哈莱德·西博门 / Otto Waalkes Mirco Nontschew",
+      "url": "https://m.douban.com/movie/subject/25971649/",
+      "year": "2014",
+      "forum_info": null,
+      "title": "第七个小矮人",
+      "label": null,
+      "directors": [
+        "Boris Aljinovic"
+      ],
+      "original_price": null,
+      "description": "",
+      "date": null,
+      "uri": "douban://douban.com/movie/25971649",
+      "price": null,
+      "actors": [
+        "Otto Waalkes",
+        "Mirco Nontschew",
+        "Boris Aljinovic"
+      ],
+      "has_linewatch": false
+    }
+  ]
+}

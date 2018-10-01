@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% macro input() %}
+    <input type="text" name="" value="" size="30">
+    {% endmacro %}
+    {{input()}}
+    <h1>第一次</h1>
+    {{input()}}
+    <h2>第二次</h2>
+    {{input()}}
+    </hr>
+    {% macro input2(name,type='text',value='',size='40')%}
+    <input  type='{{ type }}' name='{{ name }}' value='{{ value }}' size='{{ size }}'>
+    {% endmacro %}
+    <h3>input2</h3>
+    {{ input2('itcast') }}
+</body>
+</html>

@@ -1,0 +1,2 @@
+print("\n".join([" ".join(["{}*{}={}".format(c,r,c*r) for c in range(1,r+1)]) for r in range(1,10)]))
+print('\n'.join([' '.join(['%s*%s=%-2s' % (y,x,x*y) for y in range(1,x+1)]) for x in range(1,10)]))

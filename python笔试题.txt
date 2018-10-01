@@ -1,0 +1,24 @@
+以下为杭州软通阿里云业务线python笔试题，解答后回复该邮件，请知晓。
+
+mysql中存在一张student表, 和一张teacher表.
+```sql
+CREATE TABLE `student` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(250) DEFAULT '1' COMMENT '名字',
+  `teacher_id` int(11) DEFAULT '0' COMMENT '老师id'
+) ENGINE=InnoDB CHARSET=utf8 COMMENT='学生表';
+
+CREATE TABLE `teacher` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(250) DEFAULT '1' COMMENT '名字',
+  `check_time` datetime NOT NULL COMMENT '打卡时间'
+) ENGINE=InnoDB CHARSET=utf8 COMMENT='老师表'
+```
+
+用python语言, 写一个"老师"进程, 要求:
+1. 进程启动时, 会往teacher表里面插入一条记录, 记下这条记录的id值, 保存为t_id. 
+2. 进程定期更新其t_id对应记录的"check_time"字段.
+3. 进程定期扫描student表, 如果有teacher_id为0的记录, 将该字段更新为其t_id.
+4. 当启动两个进程A和B时, 这两个进程可以平分所有的student, 即一半student的teacher_id为进程A的t_id, 另一半student的teacher_id为进程B的t_id.
+5. 再启动一个进程C的时候, 1/3的student的teacher_id为进程A的t_id, 1/3为归进程B, 1/3归进程C.
+6. 当进程A因为各种原因挂了, 不再更新check_time字段时, 进程B和进程C可以瓜分进程A托管的学生.

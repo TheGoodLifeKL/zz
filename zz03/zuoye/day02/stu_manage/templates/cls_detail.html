@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        td, th {
+            border: 1px solid darkred;
+            text-align: center;
+            padding: 5px;
+        }
+
+    </style>
+</head>
+<body>
+<h4>班级名称：{{ cls.class_name }}，教室编号：{{ cls.class_num }} 教室，班级人数： {{ cls.stu_num}} 人</h4>
+<p>班级成员有：</p>
+<table>
+    <tr>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>年龄</th>
+        <th>操作</th>
+    </tr>
+
+    {% for stu in all_stu %}
+        <tr>
+            <td>{{ stu.stu_name }}</td>
+            {% if stu.stu_gender %}
+                <td>女生</td>
+            {% else %}
+                <td>男生</td>
+            {% endif %}
+
+            <td>{{ stu.stu_age }}</td>
+            <td><a href="/stu/delete/{{ cls.id }}/{{ stu.id }}">删除</a></td>
+        </tr>
+    {% endfor %}
+
+
+</table>
+
+</body>
+</html>
